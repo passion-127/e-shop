@@ -15,11 +15,11 @@
 ## 🚀 Quick start
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c198fcf9-7c35-45de-be89-9ff8689badeb/deploy-status)](https://app.netlify.com/sites/my-online-shop/deploys)
-[![Build Status](https://travis-ci.com/james-muriithi/e-shop.svg?branch=master)](https://travis-ci.com/james-muriithi/e-shop)
+[![Build Status](https://travis-ci.com/passion-127/e-shop.svg?branch=master)](https://travis-ci.com/passion-127/e-shop)
 > How to install
 
 ```
-$ git clone https://github.com/james-muriithi/e-shop.git
+$ git clone https://github.com/passion-127/e-shop.git
 $ npm install
 $ npm start
 ```
